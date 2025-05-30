@@ -50,7 +50,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-full aspect-[4/3] rounded-2xl overflow-hidden">
                 <img
-                  src="https://bau.edu/blog/wp-content/uploads/2021/06/benefits-of-data-analytics-1536x1024.jpg"
+                  src="/assets/portfolio-image.jpg"
                   alt="Neelesh working"
                   className="w-full h-full object-cover"
                 />
